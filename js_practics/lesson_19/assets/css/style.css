@@ -1,0 +1,14 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background: green;
+}
+
+@media screen and (max-width: 768px){
+    body{
+        background: red;
+    }
+}
